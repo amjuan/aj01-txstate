@@ -5,9 +5,6 @@
 	<BODY>
                 <TABLE WIDTH="100%" BORDER=0>
                         <TR VALIGN="TOP">   
-			   <TD ALIGN=LEFT WIDTH"10%">
-				&#160
-			   </TD>
                         <TD ALIGN=LEFT WIDTH="50%"> 
 			   <UL>
                         <A href="http://www.naic.edu/"> Arecibo Observatory</A><BR>
