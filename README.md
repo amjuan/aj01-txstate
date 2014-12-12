@@ -1,7 +1,4 @@
 <HTML>
-	<!	HTLM ID.		INDEX.HTML	>
-	<!	AUTHOR.		Angel M. Juan	>
-	<!	DATE WRITTEN.	10/29/1996	>
 	<HEAD>
 		<TITLE>User Angel M. Juan from WWW.TXSTATE.EDU</TITLE>
 	</HEAD> 
