@@ -2,6 +2,7 @@
 	<HEAD>
 		<TITLE>User Angel M. Juan from WWW.TXSTATE.EDU</TITLE>
 	</HEAD> 
+	<BODY BACKGROUND=http://uweb.txstate.edu/~aj01/swtpaper.gif>
 	<BODY>
                 <TABLE WIDTH="100%" BORDER=0>
                         <TR VALIGN="TOP">   
