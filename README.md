@@ -3,6 +3,40 @@
 		<TITLE>User Angel M. Juan from WWW.TXSTATE.EDU</TITLE>
 	</HEAD> 
 	<BODY>
+                <TABLE WIDTH="100%" BORDER=0>
+                        <TR VALIGN="TOP">   
+			   <TD ALIGN=LEFT WIDTH"10%">
+				&#160
+			   </TD>
+                        <TD ALIGN=LEFT WIDTH="50%"> 
+			   <UL>
+                        <A href="http://www.naic.edu/"> Arecibo Observatory</A><BR>
+                        <A href="http://www.caribbean.edu/"> Caribbean University</A><BR>
+                        <A href="http://www.municipiodebayamon.com/"> Ciudad de Bayam&oacute;n (City)</A><BR>
+                        <A href="http://www.elcolmadito.com/"> El Colmadito (Store)</A><BR>
+                        <A href="http://www.elexpresso.com/"> El Expresso de Puerto Rico (Newspaper) </A><BR>
+                        <A href="http://www.elnuevodia.com/"> El Nuevo Dia (Newspaper) </A><BR>
+                        <A href="http://www.vocero.com/"> El Vocero (Newspaper) </A><BR>
+                        <A href="http://www.pr.gov"> Gobierno de Puerto Rico (Government) </A><BR>
+                        <A href="http://www.google.com.pr/"> Google Puerto Rico </A><BR>
+			   <A href="http://www.srh.noaa.gov/sju/"> National Weather Service (San Juan) </A><BR>
+                           </UL>
+      	            	   </TD>   
+                        <TD ALIGN=LEFT WIDTH="40%"> 
+                        <A href="http://www.televicentropr.com/"> Noticentro 4 (TV Station) </A><BR>
+			<A href="http://www.primerahora.com/"> Primera Hora (Newspaper) </A><BR>
+                        <A href="http://www.mainstreamnetwork.com/listen/player.asp?station=wprm-fm">Salsoul 99.1FM</A><A href="http://www.salsoul.com"> (Radio Station) </A><BR>
+                        <A href="http://www.gorp.com/gorp/resource/us_national_forest/pr_carib.htm">
+				 U.S. National Forest (Outdoor Recreation) </A><BR>
+                        <A href="http://memory.loc.gov/ammem/prhtml/prhome.html"> Puerto Rico (The Library of Congress) </A><BR>
+                        <A href="http://www.puertoricousa.com"> Puerto Rico USA</A><BR>
+                        <A href="http://superpagespr.com/"> SuperPagesPR by Verizon </A><BR>
+                        <A href="http://welcome.topuertorico.org"> Welcome to Puerto Rico </A>
+                        <A href="http://welcome.topuertorico.org/sitemap.shtml"> (Index/Site Map) </A><BR>
+                        <A href="http://www.lamusica.com/sbsplayer-zeta.php?ad=0">Zeta 93.7FM</A><A href="http://www.zeta93.fm"> (Radio Station) </A><BR>
+                        </TD>   
+                        </TR>   
+                </TABLE> 
 		<P>	<CENTER>| 
 			<A href="http://alamoareasheltie.org/"> Alamo Area Shetland Sheepdog Club </A> | 
 			<A href="http://www.tx424.com"> Civil Air Patrol </A> | 
