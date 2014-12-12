@@ -7,7 +7,6 @@
 			<A href="http://alamoareasheltie.org/"> Alamo Area Shetland Sheepdog Club </A> | 
 			<A href="http://www.tx424.com"> Civil Air Patrol </A> | 
 			<A href="http://www.highedweb.org"> HighEdWeb Association </A> |
-			<A href="/~aj01/search_lks.htm"> WEB Search Tools </A> | 
 			<A href="mailto:aj01@txstate.edu"> Comments </A> |</CENTER>
 		</P>
 	</BODY>
