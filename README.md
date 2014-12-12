@@ -6,21 +6,21 @@
 	<BODY>
                 <TABLE WIDTH="100%" ALIGN="CENTER" BORDER=0>
                         <TR VALIGN="CENTER">   
-                        <TD ALIGN=RIGHT WIDTH="25%"> 
-				<IMG src="/~aj01/pitirre1.gif" ALT="El Pitirre - Gray King Bird" WIDTH="150" HEIGHT="150">
+                        <TD ALIGN=RIGHT WIDTH="50%"> 
+				<IMG src="http://uweb.txstate.edu/~aj01/pitirre1.gif" ALT="El Pitirre - Gray King Bird" WIDTH="150" HEIGHT="150">
                         </TD>   
-                        <TD ALIGN=CENTER WIDTH="75%">
+                        <TD ALIGN=CENTER WIDTH="50%">
 	                <TABLE WIDTH="100%" ALIGN="CENTER" BORDER=0>
         	          <TR VALIGN="CENTER">   
                         <TD ALIGN="LEFT"> 
-				<FONT SIZE=+5 COLOR="#715913">&#160 El Pitirre </FONT>
+				<FONT SIZE=+5 COLOR="#715913">El Pitirre </FONT>
                         </TD>   
                         </TR>   
         	          <TR VALIGN="CENTER">   
                         <TD ALIGN="RIGHT"> 
 				<FONT SIZE=+3 COLOR="#715913">@</FONT>
 				<FONT SIZE=+3>
-				<A href="http://www.txstate.edu/">Texas State University-San Marcos</A></FONT><BR>
+				<A href="http://www.txstate.edu/">Texas State University-San Marcos</A></FONT>
 		 	</TD>   
                         </TR>   
 	                </TABLE> 
