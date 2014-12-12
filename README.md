@@ -4,6 +4,29 @@
 		<TITLE>User Angel M. Juan from WWW.TXSTATE.EDU</TITLE>
 	</HEAD> 
 	<BODY>
+                <TABLE WIDTH="100%" ALIGN="CENTER" BORDER=0>
+                        <TR VALIGN="CENTER">   
+                        <TD ALIGN=RIGHT WIDTH="25%"> 
+				<IMG src="/~aj01/pitirre1.gif" ALT="El Pitirre - Gray King Bird" WIDTH="150" HEIGHT="150">
+                        </TD>   
+                        <TD ALIGN=CENTER WIDTH="75%">
+	                <TABLE WIDTH="100%" ALIGN="CENTER" BORDER=0>
+        	          <TR VALIGN="CENTER">   
+                        <TD ALIGN="LEFT"> 
+				<FONT SIZE=+5 COLOR="#715913">&#160 El Pitirre </FONT>
+                        </TD>   
+                        </TR>   
+        	          <TR VALIGN="CENTER">   
+                        <TD ALIGN="RIGHT"> 
+				<FONT SIZE=+3 COLOR="#715913">@</FONT>
+				<FONT SIZE=+3>
+				<A href="http://www.txstate.edu/">Texas State University-San Marcos</A></FONT><BR>
+		 	</TD>   
+                        </TR>   
+	                </TABLE> 
+                        </TD>   
+                        </TR>   
+                </TABLE> 
                 <TABLE WIDTH="100%" BORDER=0>
                         <TR VALIGN="TOP">   
                         <TD ALIGN=LEFT WIDTH="50%"> 
